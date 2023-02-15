@@ -1,0 +1,37 @@
+1655643054609	geckodriver	INFO	Listening on 127.0.0.1:2150
+1655643057647	mozrunner::runner	INFO	Running command: "E:\\Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "2151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile9XcZ3s"
+1655643058368	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:2151
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofile9XcZ3s\\search.json.mozlz4", (void 0)))
+1655643061643	Marionette	INFO	Listening on port 2178
+Read port: 2178
+DevTools listening on ws://localhost:2151/devtools/browser/e0933af1-240f-48d7-a328-16029343f20a
+1655643061749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk/1.0.0.211/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk/1.0.0.211/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/2181.b002c9df.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/2181.b002c9df.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/3507.477462ab.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1655643521411	Marionette	INFO	Stopped listening on port 2178
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1665214357925	geckodriver	INFO	Listening on 127.0.0.1:9942
+1665214360977	mozrunner::runner	INFO	Running command: "E:\\Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofiler9mc5O"
+1665214378900	geckodriver	INFO	Listening on 127.0.0.1:9975
+1665214381934	mozrunner::runner	INFO	Running command: "E:\\Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "9976" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileJlecIR"
+1665214382305	Marionette	INFO	Marionette enabled
+1665214382310	Marionette	INFO	Listening on port 9986
+Read port: 9986
+WebDriver BiDi listening on ws://127.0.0.1:9976
+1665214382499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\DELL\\AppData\\Local\\Temp\\rust_mozprofileJlecIR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:9976/devtools/browser/81a4efbe-6c33-4d4e-99dc-e4e982c972f1
+JavaScript warning: https://www.douyin.com/video/7106092425596128550?previous_page=app_code_link, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665214385805	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk/1.0.0.211/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf3-cdn-tos.bytescm.com/obj/rc-web-sdk/webmssdk/1.0.0.211/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/4552.0fd808df.js line 2 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/1803.0d1db7e3.js line 1 > Function, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/6528.9e01b45d.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf1-cdn-tos.bytegoofy.com/goofy/ies/douyin_web/async/6528.9e01b45d.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1665215054272	Marionette	INFO	Stopped listening on port 9986
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
